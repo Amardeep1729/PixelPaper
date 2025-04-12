@@ -155,4 +155,4 @@ with tempfile.TemporaryDirectory() as tmpdir:
                 st.success("Image compressed!")
                 st.download_button("📥 Download Compressed Image", open(output_path, "rb"), file_name="compressed.jpg")
 
-#streamlit run mainfinal.py --server.maxUploadSize=2000
+
