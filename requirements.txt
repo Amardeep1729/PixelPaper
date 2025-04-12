@@ -1,0 +1,4 @@
+streamlit
+PyMuPDF
+PyPDF2
+opencv-python
