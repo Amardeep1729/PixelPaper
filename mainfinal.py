@@ -1,5 +1,6 @@
 import streamlit as st
 st.set_option('server.maxUploadSize', 1024)
+
 import fitz  # PyMuPDF
 import PyPDF2
 import cv2
